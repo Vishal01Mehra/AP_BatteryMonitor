@@ -12,8 +12,8 @@ This project provides a Python script to monitor the battery voltage of an ArduP
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/ArduPilotBatteryMonitor.git
-    cd ArduPilotBatteryMonitor
+    git clone https://github.com/Vishal01Mehra/AP_BatteryMonitor.git
+    cd AP_BatteryMonitor
     ```
 
 2. **Install required Python packages**:
